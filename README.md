@@ -5,8 +5,8 @@ This repo is for the solution of the problems in Hackerrank python practice sect
 
 ## Subdomains
 ### Introduction
-- [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world?isFullScreen=true)
-- [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true)
+- [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world?isFullScreen=true)[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Introduction/say_hello_world_with_python.py)
+- [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true)[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Introduction/python_if_else.py)
 
 
 
