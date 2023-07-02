@@ -10,4 +10,3 @@ This repo is for the solution of the problems in Hackerrank python practice sect
 
 ### Built-Ins
 - [Zipped!](https://www.hackerrank.com/challenges/zipped/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Built-Ins/zipped.py)
-- [Input()](https://hackerrank.com/)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/)
