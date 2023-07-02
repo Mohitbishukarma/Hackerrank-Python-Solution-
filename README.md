@@ -7,9 +7,3 @@ This repo is for the solution of the problems in Hackerrank python practice sect
 ### Introduction
 - [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Introduction/say_hello_world%20_with_python.py)
 - [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Introduction/python_if_else.py)
-
-
-
-
-
-
