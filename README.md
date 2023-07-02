@@ -17,3 +17,4 @@ This repo is for the solution of the problems in Hackerrank python practice sect
 - [Python Evaluation](https://www.hackerrank.com/challenges/python-eval?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Built-Ins/python_evalution.py)
 
 ### Python Functional
+- [Reduce Function](https://www.hackerrank.com/challenges/reduce-function?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Python%20Functional/reduce_function.py)
