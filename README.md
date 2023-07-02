@@ -13,3 +13,4 @@ This repo is for the solution of the problems in Hackerrank python practice sect
 - [Input()](https://www.hackerrank.com/challenges/input/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Built-Ins/input_f.py)
 - [ginortS](https://www.hackerrank.com/challenges/ginorts/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Built-Ins/ginortS.py)
 - [Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Built-Ins/athlete_sort.py)
+- [Any All](https://www.hackerrank.com/challenges/any-or-all)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Built-Ins/any_all.py)
