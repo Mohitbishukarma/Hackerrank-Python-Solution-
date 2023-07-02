@@ -1,0 +1,6 @@
+s = input()
+lowercase ="".join(sorted([i for i in s if i.islower()]))
+uppercase = "".join(sorted([i for i in s if i.isupper()]))
+even = "".join(sorted([i for i in s if i in "02468"]))
+odd = "".join(sorted([i for i in s if i in "13579"]))
+print(lowercase+uppercase+odd+even)
