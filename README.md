@@ -15,3 +15,5 @@ This repo is for the solution of the problems in Hackerrank python practice sect
 - [Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Built-Ins/athlete_sort.py)
 - [Any All](https://www.hackerrank.com/challenges/any-or-all)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Built-Ins/any_all.py)
 - [Python Evaluation](https://www.hackerrank.com/challenges/python-eval?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Built-Ins/python_evalution.py)
+
+### Python Functional
