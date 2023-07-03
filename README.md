@@ -20,3 +20,5 @@ This repo is for the solution of the problems in Hackerrank python practice sect
 - [Reduce Function](https://www.hackerrank.com/challenges/reduce-function?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Python%20Functional/reduce_function.py)
 - [Validating Email Addresses With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Python%20Functional/validating_email_address_with_filter.py)
 - [Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Python%20Functional/map_and_lambda_function.py)
+
+### Date and Time
