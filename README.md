@@ -26,3 +26,10 @@ This repo is for the solution of the problems in Hackerrank python practice sect
 - [Time Delta](https://www.hackerrank.com/challenges/python-time-delta?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Date%20and%20Time/time_delta.py)
 
 ### Classes
+
+### Classes
+
+### kdjh
+
+### Classes
+- [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Classes/dealing_with_complex_numbers.py)
