@@ -31,3 +31,4 @@ This repo is for the solution of the problems in Hackerrank python practice sect
 - [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Introduction/python_if_else.py)
 - [Arithematic Operator](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Introduction/arithematic_operator.py)
 - [Python: Division](https://www.hackerrank.com/challenges/python-division/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Introduction/python_division.py)
+- [Loops](https://www.hackerrank.com/challenges/python-loops/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Introduction/loops.py)
