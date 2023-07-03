@@ -22,3 +22,4 @@ This repo is for the solution of the problems in Hackerrank python practice sect
 - [Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Python%20Functional/map_and_lambda_function.py)
 
 ### Date and Time
+- [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Date%20and%20Time/calendar_module.py)
