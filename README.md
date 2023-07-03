@@ -4,9 +4,6 @@ I am starting to solve the problems of hackerrank. I will add two solutions each
 This repo is for the solution of the problems in Hackerrank python practice section. There are so many subdomains in problems. I have will add all the solution in the respective subdomains. Like the problems of string domain will be in the strign folder.
 
 ## Subdomains
-### Introduction
-- [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Introduction/say_hello_world%20_with_python.py)
-- [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Introduction/python_if_else.py)
 
 ### Built-Ins
 - [Zipped!](https://www.hackerrank.com/challenges/zipped/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Built-Ins/zipped.py)
@@ -28,3 +25,8 @@ This repo is for the solution of the problems in Hackerrank python practice sect
 ### Classes
 - [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Classes/dealing_with_complex_numbers.py)
 - [Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Classes/find_the_torsional_angle.py)
+
+### Introduction
+- [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Introduction/say_hello_world%20_with_python.py)
+- [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Introduction/python_if_else.py)
+- [Arithematic Operator](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Introduction/arithematic_operator.py)
