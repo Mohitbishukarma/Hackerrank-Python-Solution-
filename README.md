@@ -23,3 +23,4 @@ This repo is for the solution of the problems in Hackerrank python practice sect
 
 ### Date and Time
 - [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Date%20and%20Time/calendar_module.py)
+- [Time Delta](https://www.hackerrank.com/challenges/python-time-delta?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Date%20and%20Time/time_delta.py)
