@@ -34,3 +34,5 @@ This repo is for the solution of the problems in Hackerrank python practice sect
 - [Loops](https://www.hackerrank.com/challenges/python-loops/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Introduction/loops.py)
 - [Write a Function!](https://www.hackerrank.com/challenges/write-a-function/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Introduction/write_a_function.py)
 - [Print Function](https://www.hackerrank.com/challenges/python-print/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Introduction/print_function.py)
+
+### Basic Data Types
