@@ -36,3 +36,4 @@ This repo is for the solution of the problems in Hackerrank python practice sect
 - [Print Function](https://www.hackerrank.com/challenges/python-print/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Introduction/print_function.py)
 
 ### Basic Data Types
+- [List Comprehension](https://www.hackerrank.com/challenges/list-comprehensions/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Basic%20Data%20Types/list_comprehension.py)
