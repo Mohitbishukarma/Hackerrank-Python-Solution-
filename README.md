@@ -37,3 +37,4 @@ This repo is for the solution of the problems in Hackerrank python practice sect
 
 ### Basic Data Types
 - [List Comprehension](https://www.hackerrank.com/challenges/list-comprehensions/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Basic%20Data%20Types/list_comprehension.py)
+- [Find the Runner Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Basic%20Data%20Types/find_the_runner_up_score.py)
