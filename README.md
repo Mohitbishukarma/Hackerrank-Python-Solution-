@@ -49,3 +49,4 @@ This repo is for the solution of the problems in Hackerrank python practice sect
 - [What is Your Name](https://www.hackerrank.com/challenges/whats-your-name?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Strings/what_is_your_name.py)
 - [Mutations](https://www.hackerrank.com/challenges/python-mutations?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Strings/mutations.py)
 - [Find A String](https://www.hackerrank.com/challenges/find-a-string?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Strings/find_a_string.py)
+- [String Validation](https://www.hackerrank.com/challenges/string-validators?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Strings/string_formating.py)
