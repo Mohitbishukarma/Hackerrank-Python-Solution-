@@ -57,3 +57,4 @@ This repo is for the solution of the problems in Hackerrank python practice sect
 - [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Strings/alphabet_rangoli.py)
 - [Capitalize!](https://www.hackerrank.com/challenges/capitalize?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Strings/capitalize.py)
 - [Merge the Tools](https://www.hackerrank.com/challenges/merge-the-tools?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Strings/merge_the_tools.py)
+- [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Strings/minion_game.py)
