@@ -44,3 +44,4 @@ This repo is for the solution of the problems in Hackerrank python practice sect
 - [Tuple](https://www.hackerrank.com/challenges/python-tuples?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Basic%20Data%20Types/tuple.py)
 
 ### Strings
+- [Swap Case](https://www.hackerrank.com/challenges/swap-case?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Strings/swap_case.py)
