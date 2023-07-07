@@ -46,3 +46,4 @@ This repo is for the solution of the problems in Hackerrank python practice sect
 ### Strings
 - [Swap Case](https://www.hackerrank.com/challenges/swap-case?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Strings/swap_case.py)
 - [String Split Join](https://www.hackerrank.com/challenges/python-string-split-and-join?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Strings/split_join.py)
+- [What is Your Name](https://www.hackerrank.com/challenges/whats-your-name?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Strings/what_is_your_name.py)
