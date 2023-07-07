@@ -42,3 +42,5 @@ This repo is for the solution of the problems in Hackerrank python practice sect
 - [Finding the Percentage](https://www.hackerrank.com/challenges/finding-the-percentage?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Basic%20Data%20Types/finding_the_percentage.py)
 - [Lists](https://www.hackerrank.com/challenges/python-lists?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Basic%20Data%20Types/lists.py)
 - [Tuple](https://www.hackerrank.com/challenges/python-tuples?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Basic%20Data%20Types/tuple.py)
+
+### Strings
