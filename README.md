@@ -54,3 +54,4 @@ This repo is for the solution of the problems in Hackerrank python practice sect
 - [Text Warp](https://www.hackerrank.com/challenges/text-wrap?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Strings/text_warp.py)
 - [Design Door Mat](https://www.hackerrank.com/challenges/designer-door-mat?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Strings/design_door_mat.py)
 - [String Formating](https://www.hackerrank.com/challenges/python-string-formatting?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Strings/string_formating.py)
+- [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Strings/alphabet_rangoli.py)
