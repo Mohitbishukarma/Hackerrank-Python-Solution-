@@ -52,3 +52,4 @@ This repo is for the solution of the problems in Hackerrank python practice sect
 - [String Validation](https://www.hackerrank.com/challenges/string-validators?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Strings/string_formating.py)
 - [Text Alingment](https://www.hackerrank.com/challenges/text-alignment?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Strings/text_alingment.py)
 - [Text Warp](https://www.hackerrank.com/challenges/text-wrap?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Strings/text_warp.py)
+- [Design Door Mat](https://www.hackerrank.com/challenges/designer-door-mat?isFullScreen=true)&nbsp;&nbsp;&nbsp;[[Solution]](https://github.com/Mohitbishukarma/Hackerrank-Python-Solution-/blob/main/Strings/design_door_mat.py)
